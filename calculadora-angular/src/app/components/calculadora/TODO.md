@@ -1,0 +1,8 @@
+- [x] Adicionar referência de template ao botão "=" no HTML
+- [x] Importar ViewChild e ElementRef no TS
+- [x] Adicionar ViewChild para o botão "=" no TS
+- [x] Adicionar propriedade teleportCount no TS
+- [x] Modificar método calculate() para implementar lógica de teleporte
+- [x] Adicionar método teleportButton() no TS
+- [x] Ajustar CSS para position relative no .keys
+- [x] Resetar posição do botão após cálculo
